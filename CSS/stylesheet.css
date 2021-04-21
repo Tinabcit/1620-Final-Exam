@@ -4,7 +4,11 @@ body{
     font-family: 'RocknRoll One', sans-serif;
 }
 nav{
-
+  color:#4682B4;
+  display:flex;
+  list-style-type: none;
+  font-size: 20px;
+  justify-content: flex-end;
 }
 h1{
     font-family: 'Indie Flower', cursive;

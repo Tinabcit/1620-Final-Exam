@@ -37,7 +37,7 @@ h1{
 .Album1{
    max-width: 200px;
    float: left;
-   align-content: ;
+   align-content: left;
    padding: 2em;
 }
 .shop-item-two{
@@ -63,4 +63,10 @@ h1{
     max-width: 200px;
     float: right;
     padding: 2em;
+}
+.cart{
+    text-align: center;
+}
+p{
+    text-align: center;
 }

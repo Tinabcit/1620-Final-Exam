@@ -2,6 +2,13 @@ body{
     background-color: #00FA9A;
     display: grid;
     font-family: 'RocknRoll One', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    height:80px;
+    background-color: #639A88;
+    text-align: center;
 }
 nav{
   color:#4682B4;
@@ -9,6 +16,7 @@ nav{
   list-style-type: none;
   font-size: 20px;
   justify-content: flex-end;
+  
 }
 nav li{
    float: right;
@@ -22,4 +30,36 @@ nav a:hover{
 }
 h1{
     font-family: 'Indie Flower', cursive;
+}
+.shop-item-one{
+    text-align: left;
+}
+.Album1{
+   max-width: 250px;
+   float: left;
+   padding: 2em;
+}
+.shop-item-two{
+    text-align: right;
+}
+.Album2{
+    max-width: 250px;
+    float: right;
+    padding: 2em;
+}
+.shop-item-three{
+    text-align: left;
+}
+.Album3{
+    max-width: 250px;
+    float: left;
+    padding: 2em;
+}
+.shop-item-four{
+    text-align: right;
+}
+.Album4{
+    max-width: 250px;
+    float: right;
+    padding: 2em;
 }

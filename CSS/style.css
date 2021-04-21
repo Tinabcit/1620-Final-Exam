@@ -70,3 +70,27 @@ h1{
 p{
     text-align: center;
 }
+footer{
+    background-color: #639A88;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+@media (max-width:1000px) {
+    nav{
+        width:100%;
+        height: auto;
+    }
+    body{
+        background-color:blue;
+    }
+}
+@media (max-width:600px) {
+    nav{
+        width:50%;
+        height: auto;
+    }
+    body{
+        background-color:yellow;
+    }
+}

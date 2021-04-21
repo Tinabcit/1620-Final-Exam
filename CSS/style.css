@@ -35,15 +35,16 @@ h1{
     text-align: left;
 }
 .Album1{
-   max-width: 250px;
+   max-width: 200px;
    float: left;
+   align-content: ;
    padding: 2em;
 }
 .shop-item-two{
     text-align: right;
 }
 .Album2{
-    max-width: 250px;
+    max-width: 200px;
     float: right;
     padding: 2em;
 }
@@ -51,15 +52,15 @@ h1{
     text-align: left;
 }
 .Album3{
-    max-width: 250px;
+    max-width: 200px;
     float: left;
-    padding: 2em;
+    padding: 4em;
 }
 .shop-item-four{
     text-align: right;
 }
 .Album4{
-    max-width: 250px;
+    max-width: 200px;
     float: right;
     padding: 2em;
 }
